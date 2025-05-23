@@ -1,4 +1,4 @@
-# Front-end-Projects
+# Book Safari
 This is a online book shopping Website named "Book Safari" project aims to create a visually appealing and user-friendly
 website that allows users to explore a wide range of books and read customer reviews. Throughout the project, 
 we have designed and structured the website using HTML, styled it with CSS, and added interactive elements using
